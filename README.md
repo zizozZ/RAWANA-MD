@@ -34,7 +34,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://whatsapp.com/channel/0029Vb5urgj7z4kfTgSlME16">
-    <img src="https://img.shields.io/badge/WhatsApp_Channel-009688?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wa_Channel-009688?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@rwanamd">
