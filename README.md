@@ -42,7 +42,8 @@
 
 ## 🛠️ Setup & Installation
 
-> 📌 Coming Soon – Full setup guide, environment details & deployment steps.
+> 📌 Full setup guide, environment details & deployment steps.
+https://www.youtube.com/@rwanamd
 
 Stay tuned and ⭐ the repo if you like it!
 
